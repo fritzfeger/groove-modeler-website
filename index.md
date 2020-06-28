@@ -5,7 +5,7 @@ Just download and install [Sonic Pi](https://github.com/samaaron/sonic-pi) (it's
 * [The Theory of Groove](#the-theory-of-groove)
 * [Modeling Groove With Sonic Pi](#modeling-groove-with-sonic-pi)
 
-## The Theory of Groove]
+## The Theory of Groove
 
 There is a lot of mystery around the pheonomenon of groove, see e.g. the [Wikipedia page on groove](https://en.wikipedia.org/wiki/Groove_(music)). No matter how culturally coined, dependent from learning the perception of groove, or how important vor communication and participation, it seems clear that it is caused completely un-esoteric pyhsical properties of rhythmic sounds. There is also some, though not much, great quantitative research, e.g. [lucerne groove research library](https://www.grooveresearch.ch/index.php?browse) on groove. 
 
