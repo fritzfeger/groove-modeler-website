@@ -2,6 +2,9 @@ With Groove Modeler you can create grooves with consistent rhythmic feel in prog
 
 Just download and install [Sonic Pi](https://github.com/samaaron/sonic-pi) (it's free!), grab some code from the [Groove Modeler GitHub page](https://github.com/fritzfeger/groove-modeler), paste into Sonic Pi, hit run and enjoy.
 
+* [The Theory of Groove][The Theory of Groove]
+* [Modeling Groove With Sonic Pi][Modeling Groove With Sonic Pi]
+
 ## The Theory of Groove
 
 There is a lot of mystery around the pheonomenon of groove, see e.g. the [Wikipedia page on groove](https://en.wikipedia.org/wiki/Groove_(music)). No matter how culturally coined, dependent from learning the perception of groove, or how important vor communication and participation, it seems clear that it is caused completely un-esoteric pyhsical properties of rhythmic sounds. There is also some, though not much, great quantitative research, e.g. [lucerne groove research library](https://www.grooveresearch.ch/index.php?browse) on groove. 
