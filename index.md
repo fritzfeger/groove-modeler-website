@@ -28,4 +28,4 @@ Here are some hypothesis about important variables - please raise an issue on [t
 
 ## Modeling Groove With Sonic Pi
 
-At this place a documentation about [Groove Modeler](https://github.com/fritzfeger/groove-modeler) is about to happen... for now, please look at the comments in the code after installing Sonic Pi, copying the code in any one .rb file to a free buffer and hitting run.
+At this place there should be a documentation about [Groove Modeler](https://github.com/fritzfeger/groove-modeler). for now, please look at the comments in the code after installing Sonic Pi, copying the code in any one .rb file to a free buffer and hitting run.
