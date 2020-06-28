@@ -1,7 +1,5 @@
----
 layout: post
 title: Groove Modeler Startseite
----
 
 # Groove Modeler Website
 
