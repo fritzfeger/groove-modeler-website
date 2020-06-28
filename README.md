@@ -1,3 +1,7 @@
+# Groove Modeler Website
+
+This is the website for the [Groove Modeler](https://github.com/fritzfeger/groove-modeler) project. It uses the GitHub Pages Jekyll static HTML builder; therefore the documentation which has initially been created automatically is still there, see below.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fritzfeger/groove-modeler-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
