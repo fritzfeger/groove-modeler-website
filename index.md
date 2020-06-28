@@ -7,11 +7,11 @@ Just download and install [Sonic Pi](https://github.com/samaaron/sonic-pi) (it's
 
 ## The Theory of Groove
 
-There is a lot of mystery around the pheonomenon of groove, see e.g. the [Wikipedia page on groove](https://en.wikipedia.org/wiki/Groove_(music)). No matter how culturally coined, dependent from learning the perception of groove, or how important vor communication and participation, it seems clear that it is caused completely un-esoteric pyhsical properties of rhythmic sounds. There is also some, though not much, great quantitative research, e.g. [lucerne groove research library](https://www.grooveresearch.ch/index.php?browse) on groove. 
+There is a lot of mystery around the pheonomenon of groove, see e.g. the [Wikipedia page on groove](https://en.wikipedia.org/wiki/Groove_(music)). No matter how culturally coined, dependent from learning, or how important for communication and participation, it seems clear that groove is caused by completely un-esoteric pyhsical properties of rhythmic sounds. There is also some, though not much, great quantitative research, e.g. [lucerne groove research library](https://www.grooveresearch.ch/index.php?browse) on groove. 
 
-For the Groove Modeling project, it is crucial to identify the variables which determine how a drum pattern or a whole piece of music is perceived rhytmically, which feel it "has", i.e. which sensation it evokes.
+For the Groove Modeling project it is crucial to identify the variables which determine how a drum pattern or a whole piece of music is perceived rhytmically, which feel it "has", i.e. which groove sensation it evokes.
 
-What follows is a hypothesis about important variables - please raise an issue on [this website's GitHub source page](https://github.com/fritzfeger/groove-modeler-website) if you think something is wrong or missing!
+Here are some hypothesis about important variables - please raise an issue on [this website's GitHub source page](https://github.com/fritzfeger/groove-modeler-website) if you think something is wrong or missing!
 
 ### Timing
 
@@ -28,4 +28,4 @@ What follows is a hypothesis about important variables - please raise an issue o
 
 ## Modeling Groove With Sonic Pi
 
-At this place a documentation about [Groove Modeler](https://github.com/fritzfeger/groove-modeler) is about to happen...
+At this place a documentation about [Groove Modeler](https://github.com/fritzfeger/groove-modeler) is about to happen... for now, please look at the comments in the code after installing Sonic Pi, copying the code in any one .rb file to a free buffer and hitting run.
